@@ -8,4 +8,6 @@ https://www.zdnet.com/article/first-it-was-agile-software-development-now-agile-
 
 I found the article itneresting because it discusses how the workplace is adapting to meet the needs of COVID-19. For example,
 it talks about how many managers who could previously keep a close eye on their subordinates now must shift to the agile approach
-which has been used in software development for many years. 
+which has been used in software development for many years. It was also interesting to see how the changes are causing managers to shift 
+the way they work with others as well. While they used to be able to tell people what to do, it has shifted to more of those people telling 
+them or asking them for help. Managers now must also be more available than ever so that their teams remain productive and successful. 
